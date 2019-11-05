@@ -1,0 +1,17 @@
+{
+    "name": "Unity.2D.PixelPerfect.Samples.Editor",
+    "references": [
+        "Unity.2D.PixelPerfect.Samples"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
