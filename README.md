@@ -1,5 +1,5 @@
 # 2d-renderer-samples
-This repository contains 2D Lights samples for the 2D Renderer in LWRP to be used with Unity 2019.2 beta or newer.
+This repository contains 2D Lights samples for the 2D Renderer in Universal Render Pipeline to be used with Unity 2019.3 or newer.
 
 
 
