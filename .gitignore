@@ -7,6 +7,10 @@ Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+
+# OS specific files
+.DS_Store
 
 # Visual Studio Code cache directory
 .vscode/
