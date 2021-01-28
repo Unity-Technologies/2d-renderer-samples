@@ -1,5 +1,5 @@
 # 2d-renderer-samples
-This repository contains 2D Renderer samples for the 2D Renderer in the Lightweight Render Pipeline to be used with Unity 2019.2.
+This repository contains samples for the 2D Renderer in the Lightweight Render Pipeline to be used with Unity 2019.2.
 
 ## ⚠️ ⚠️ ⚠️ Warning ⚠️ ⚠️ ⚠️
 
