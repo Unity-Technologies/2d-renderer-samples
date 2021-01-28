@@ -40,9 +40,11 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: 5db765495be2b417696a0a3a659804ac, type: 3}
+    totalSpriteSurfaceArea: 12288
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -145,5 +147,6 @@ SpriteAtlas:
   - ocean_35
   - ocean_45
   - ocean_34
+  m_RenderDataMap: {}
   m_Tag: Ocean
   m_IsVariant: 0
