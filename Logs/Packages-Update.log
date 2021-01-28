@@ -27,3 +27,14 @@ Update Mode: updateDependencies
 The following packages were updated:
   com.unity.2d.animation from version 3.2.3 to 3.2.5
   com.unity.test-framework from version 1.1.14 to 1.1.20
+
+=== Tue Jan 26 18:02:04 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 3.2.6 to 4.2.6
+  com.unity.ide.rider from version 1.1.4 to 1.2.1
+  com.unity.ide.visualstudio from version 1.0.11 to 2.0.5
+  com.unity.render-pipelines.universal from version 7.5.2 to 8.3.1
