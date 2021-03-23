@@ -1,5 +1,5 @@
 # 2d-renderer-samples
-This repository contains samples for the 2D Renderer in Universal Render Pipeline to be used with Unity 2020.1
+This repository contains samples for the 2D Renderer in Universal Render Pipeline to be used with Unity 2020.2
 
 
 
