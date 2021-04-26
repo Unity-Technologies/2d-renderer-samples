@@ -45,3 +45,4 @@ sysinfo.txt
 
 # OS Specific Files
 .DS_Store
+**/packages-lock.json
