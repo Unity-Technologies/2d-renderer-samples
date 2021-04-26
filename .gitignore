@@ -5,6 +5,7 @@
 [Bb]uilds/
 [L]ogs/
 Assets/AssetStoreTools*
+**/packages-lock.json
 
 # Visual Studio cache directory
 .vs/
@@ -42,7 +43,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+**/Logs
 
 # OS Specific Files
 .DS_Store
-**/packages-lock.json
