@@ -5,7 +5,7 @@
 [Bb]uilds/
 [L]ogs/
 Assets/AssetStoreTools*
-**/packages-lock.json
+Packages/packages-lock.json
 
 # Visual Studio cache directory
 .vs/
@@ -47,3 +47,4 @@ sysinfo.txt
 
 # OS Specific Files
 .DS_Store
+
