@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dungeon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -638301374, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: -538632849, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: -1407269547, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: 481174562, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: -933262434, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: -1522465830, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: -715735770, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: -780412544, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: 1945142241, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: 1792401773, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: 812041016, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: -1271928839, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: -1855629370, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: -1632852436, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  - {fileID: -1956360218, guid: 8dde077e6aa8747a2bc4ba294b93cc7a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Dungeon_14
+  - Dungeon_11
+  - Dungeon_10
+  - Dungeon_13
+  - Dungeon_12
+  - Dungeon_02
+  - Dungeon_03
+  - Dungeon_00
+  - Dungeon_01
+  - Dungeon_06
+  - Dungeon_07
+  - Dungeon_04
+  - Dungeon_05
+  - Dungeon_08
+  - Dungeon_09
+  m_RenderDataMap: {}
+  m_Tag: Dungeon
+  m_IsVariant: 0

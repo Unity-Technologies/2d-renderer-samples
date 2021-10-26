@@ -1,9 +1,19 @@
 # 2d-renderer-samples
-This repository contains 2D Lights samples for the 2D Renderer in Universal Render Pipeline to be used with Unity 2020.3 or newer.
+This repository contains samples for the 2D Renderer in Universal Render Pipeline to be used with Unity 2021.2 or newer.
+
+### Contents:
+
+**Feature samples**
+- 2D Light Types
+- 2D Shadows
+- Normal Maps (Secondary Texture)
+- Masks (Secondary Texture)
+- Pixel Perfect Camera
+- Post Processing
+- Shader Graph
+- Visual Effect Graph
 
 
-
-## ⚠️ ⚠️ ⚠️ Warning ⚠️ ⚠️ ⚠️
-
-**Project backward compatibility between Preview versions is NOT GUARANTEED. Always backup your project before updating the package. Preview features here are not production ready, please DO NOT use this package for your final production. Preview features may be discontinued/dropped.**
-
+**Applied samples**
+- Emissive Shader
+- Heat Haze Overlay

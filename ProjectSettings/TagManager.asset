@@ -44,9 +44,12 @@ TagManager:
   - name: Background
     uniqueID: 709346897
     locked: 0
-  - name: Space Junk
+  - name: Props
     uniqueID: 1886970829
     locked: 0
   - name: Player
     uniqueID: 1388919113
+    locked: 0
+  - name: Overlay
+    uniqueID: 1627387829
     locked: 0
