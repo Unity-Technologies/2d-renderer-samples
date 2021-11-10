@@ -4,6 +4,7 @@ This repository contains samples for the 2D Renderer in Universal Render Pipelin
 ### Contents:
 
 **Feature samples**
+
 - 2D Light Types
 - 2D Shadows
 - Normal Maps (Secondary Texture)
@@ -12,7 +13,7 @@ This repository contains samples for the 2D Renderer in Universal Render Pipelin
 - Post Processing
 - Shader Graph
 - Visual Effect Graph
-
+- Renderer Features
 
 **Applied samples**
 - Emissive Shader
